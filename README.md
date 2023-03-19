@@ -2,7 +2,7 @@
 
 Set up tfstate storage using by Bicep.
 
-![tfstate architecture](../../docs/images/tfstate_overview.drawio.png)
+![tfstate architecture](docs/images/tfstate_overview.drawio.png)
 
 ## usage
 
